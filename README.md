@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @nasirdev74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nasirdev74/nasirdev74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+Hi, I'm Nasir, I'm working as a Mobile Application Engineer at Softcent. My expertise relies on Flutter, iOS and Android. Currently I'm work on a fintech project on Softcent and an iOS project for myself. 
+```
